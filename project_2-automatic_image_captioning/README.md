@@ -52,7 +52,9 @@ Please feel free to experiment with alternative architectures, such as bidirecti
 
 The result should be an inference like the one sampled bellow:
 
-![Caption example](images/caption_inference.jpg)
+<p align="center">
+  <img src="images/caption_inference.jpg">
+</p>
 
 ## Dependencies
 
