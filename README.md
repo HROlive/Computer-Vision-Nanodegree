@@ -4,7 +4,7 @@ This repository contains the projects that I've developed during Udacity's [Comp
 
 ## Projects
 
-### [Facial_Keypoints Detection](https://github.com/HROlive/Computer-Vision-Nanodegree/tree/master/project_1-facial_keypoint%20_detection)
+### [Facial Keypoints Detection](https://github.com/HROlive/Computer-Vision-Nanodegree/tree/master/project_1-facial_keypoint%20_detection)
 
 Using image processing and deep learning techniques to create a facial keypoint detection system that takes in any image with faces, and predicts the location of 68 distinguishing keypoints on each face, such as the position of the eyes, nose, and mouth.
 
