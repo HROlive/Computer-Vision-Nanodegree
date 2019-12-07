@@ -8,7 +8,9 @@ Image captioning requires that you create a complex deep learning model with two
 
 One such example of how this architecture performs is pictured below:
 
-![Overview](images/image-description.png)
+<p align="center">
+  <img src="images/image-description.png">
+</p>
 
 ## Getting the Files
 
