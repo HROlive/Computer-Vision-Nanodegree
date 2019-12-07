@@ -10,7 +10,7 @@ Using image processing and deep learning techniques to create a facial keypoint 
 
 ![Caption Inference](images/caption_inference.jpg)
 
-### Automatic Image Captioning
+### [Automatic Image Captioning](https://github.com/HROlive/Computer-Vision-Nanodegree/tree/master/project_2-image_captioning)
 
 Designed and trained a CNN-RNN model that automatically generates image captions. The network is trained on the Microsoft Common Objects in COntext (MS COCO) dataset. The image captioning model is displayed below.
 
