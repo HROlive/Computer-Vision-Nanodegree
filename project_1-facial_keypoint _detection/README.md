@@ -1,15 +1,12 @@
-[//]: # (Image References)
-
-[image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
-[image2]: ./images/facial_keypoint_inference.jpg "Facial Keypoint Inference"
-
 # Facial Keypoint Detection
 
 ## Project Overview
 
 In this project, you’ll combine your knowledge of computer vision techniques and deep learning architectures to build a facial keypoint detection system. Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: facial tracking, facial pose recognition, facial filters, and emotion recognition. Your completed code should be able to look at any image, detect faces, and predict the locations of facial keypoints on each face; examples of these keypoints are displayed below.
 
-![Facial Keypoint Detection][image1]
+<p align="center">
+  <img src="/images/key_pts_example.png">
+</p>
 
 The project will be broken up into a few main parts in four Python notebooks:
 
@@ -21,7 +18,9 @@ The project will be broken up into a few main parts in four Python notebooks:
 
 [4. Fun with Keypoints](https://github.com/HROlive/Computer-Vision-Nanodegree/blob/master/project_1-facial_keypoint%20_detection/4.%20Fun%20with%20Keypoints.ipynb) : Fun Filters and Keypoint Uses
 
-![Facial Keypoint Inference][image2]
+<p align="center">
+  <img src="images/facial_keypoint_inference.jpg">
+</p>
 
 ## Project Instructions
 
