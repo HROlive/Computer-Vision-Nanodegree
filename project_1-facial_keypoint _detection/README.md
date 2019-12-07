@@ -1,6 +1,7 @@
 [//]: # (Image References)
 
 [image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
+[image2]: ./images/facial_keypoint_inference.jpg "Facial Keypoint Inference"
 
 # Facial Keypoint Detection
 
@@ -20,6 +21,7 @@ The project will be broken up into a few main parts in four Python notebooks:
 
 [4. Fun with Keypoints](https://github.com/HROlive/Computer-Vision-Nanodegree/blob/master/project_1-facial_keypoint%20_detection/4.%20Fun%20with%20Keypoints.ipynb) : Fun Filters and Keypoint Uses
 
+![Facial Keypoint Inference][image2]
 
 ## Project Instructions
 
