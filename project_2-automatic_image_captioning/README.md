@@ -30,7 +30,9 @@ One such example of how this architecture performs is pictured below:
 
 The Microsoft **C**ommon **O**bjects in **CO**ntext (MS COCO) dataset is a large-scale dataset for scene understanding.  The dataset is commonly used to train and benchmark object detection, segmentation, and captioning algorithms.  
 
-![Sample Coco Example](images/coco-examples.jpg)
+<p align="center">
+  <img src="images/images/coco-examples.jpg">
+</p>
 
 You can read more about the dataset on the [website](http://cocodataset.org/#home) or in the [research paper](https://arxiv.org/pdf/1405.0312.pdf).
 
@@ -40,7 +42,9 @@ To obtain and explore the dataset, you can use either the [COCO API](https://git
 
 By merging the CNN encoder and the RNN decoder, we can get a model that can find patterns in images and then use that information to help generate a description of those images. The input image will be processed by a CNN and we will connect the output of the CNN to the input of the RNN which will allow us to generate descriptive text.
 
-![encoder-decoder-architecture](images/encoder-decoder.png)
+<p align="center">
+  <img src="images/images/images/encoder-decoder.png">
+</p>
 
 Please feel free to experiment with alternative architectures, such as bidirectional LSTM with attention mechanisms.
 
