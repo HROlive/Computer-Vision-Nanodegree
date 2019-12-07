@@ -8,13 +8,17 @@ This repository contains the projects that I've developed during Udacity's [Comp
 
 Using image processing and deep learning techniques to create a facial keypoint detection system that takes in any image with faces, and predicts the location of 68 distinguishing keypoints on each face, such as the position of the eyes, nose, and mouth.
 
-![Keypoint Detection Inference](images/facial_keypoint_inference.jpg)
+<p align="center">
+  <img src="images/facial_keypoint_inference.jpg">
+</p>
 
 ### [Automatic Image Captioning](https://github.com/HROlive/Computer-Vision-Nanodegree/tree/master/project_2-automatic_image_captioning)
 
 Designed and trained a CNN-RNN model that automatically generates image captions. The network is trained on the Microsoft Common Objects in COntext (MS COCO) dataset.
 
-![Caption Inference](images/caption_inference.jpg)
+<p align="center">
+  <img src="images/caption_inference.jpg">
+</p>
 
 ### Landmark Detection & Robot Tracking (SLAM)
 
