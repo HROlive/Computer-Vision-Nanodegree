@@ -10,23 +10,20 @@ In this project, you’ll combine your knowledge of computer vision techniques a
 
 ![Facial Keypoint Detection][image1]
 
-The project will be broken up into a few main parts in four Python notebooks, **only Notebooks 2 and 3 (and the `models.py` file) will be graded**:
+The project will be broken up into a few main parts in four Python notebooks:
 
-__Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
+[1. Load and Visualize Data](https://github.com/HROlive/Computer-Vision-Nanodegree/blob/master/project_1-facial_keypoint%20_detection/1.%20Load%20and%20Visualize%20Data.ipynb) : Loading and Visualizing the Facial Keypoint Data
 
-__Notebook 2__ : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
+[2. Define the Network Architecture](https://github.com/HROlive/Computer-Vision-Nanodegree/blob/master/project_1-facial_keypoint%20_detection/2.%20Define%20the%20Network%20Architecture.ipynb) : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
 
-__Notebook 3__ : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
+[3. Facial Keypoint Detection, Complete Pipeline](https://github.com/HROlive/Computer-Vision-Nanodegree/blob/master/project_1-facial_keypoint%20_detection/3.%20Facial%20Keypoint%20Detection%2C%20Complete%20Pipeline.ipynb) : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
 
-__Notebook 4__ : Fun Filters and Keypoint Uses
-
+[4. Fun with Keypoints](https://github.com/HROlive/Computer-Vision-Nanodegree/blob/master/project_1-facial_keypoint%20_detection/4.%20Fun%20with%20Keypoints.ipynb) : Fun Filters and Keypoint Uses
 
 
 ## Project Instructions
 
 All of the starting code and resources you'll need to compete this project are in this Github repository. Before you can get started coding, you'll have to make sure that you have all the libraries and dependencies required to support this project. If you have already created a `cv-nd` environment for [exercise code](https://github.com/udacity/CVND_Exercises), then you can use that environment! If not, instructions for creation and activation are below.
-
-*Note that this project does not require the use of GPU, so this repo does not include instructions for GPU setup.*
 
 
 ### Local Environment Instructions
