@@ -46,8 +46,6 @@ By merging the CNN encoder and the RNN decoder, we can get a model that can find
   <img src="images/encoder-decoder.png">
 </p>
 
-![Model Architecture](images/encoder-decoder.png)
-
 Please feel free to experiment with alternative architectures, such as bidirectional LSTM with attention mechanisms.
 
 ## Result
