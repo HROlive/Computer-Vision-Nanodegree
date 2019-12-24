@@ -25,5 +25,5 @@ Designed and trained a CNN-RNN model that automatically generates image captions
 Implementation of SLAM (Simultaneous Localization and Mapping) for a 2-dimensional world. Sensor and motion data gathered by a simulated robot is used to create a map of an environment. SLAM gives us a way to track the location of a robot in the world in real-time and identify the locations of landmarks such as buildings, trees, rocks, etc.
 
 <p align="center">
-  <img src="images/slam_result.jpg" width=50% height=50%>
+  <img src="images/slam_result.jpg" width=75% height=75%>
 </p>
