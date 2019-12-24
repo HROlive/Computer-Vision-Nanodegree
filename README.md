@@ -23,3 +23,7 @@ Designed and trained a CNN-RNN model that automatically generates image captions
 ### [Landmark Detection & Robot Tracking (SLAM)](https://github.com/HROlive/Computer-Vision-Nanodegree/tree/master/project_3-SLAM_landmark_detection_%26_robot_tracking)
 
 Implementation of SLAM (Simultaneous Localization and Mapping) for a 2-dimensional world. Sensor and motion data gathered by a simulated robot is used to create a map of an environment. SLAM gives us a way to track the location of a robot in the world in real-time and identify the locations of landmarks such as buildings, trees, rocks, etc.
+
+<p align="center">
+  <img src="images/slam_result.jpg">
+</p>
