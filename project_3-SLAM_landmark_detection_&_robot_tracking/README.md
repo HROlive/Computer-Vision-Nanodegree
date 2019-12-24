@@ -13,7 +13,7 @@ This is an active area of research in the field of robotics and autonomous syste
 Below is an example of a 2D robot world with landmarks (purple x's) and the robot (a red 'o') located and found using only sensor and motion data collected by that robot.
 
 <p align="center">
-  <img src="images/description.PNG">
+  <img src="images/description.png">
 </p>
 
 ## Files
@@ -52,7 +52,7 @@ After correctly implementing SLAM, we can visualize
 To "solve" for all these x values, we can use linear algebra; all the values of x are in the vector `mu` which can be calculated as a product of the inverse of omega times `xi`.
 
 <p align="center">
-  <img src="images/solution_clean.jpg">
+  <img src="images/solution_clean.png">
 </p>
 
 Notice that our initial position is `[x = world_size / 2, y = world_size / 2]` since we assume
